@@ -44,7 +44,7 @@ function toOct(num){
 }
 
 function toHex(num){
-	var base = 16;
+	var base = 6;
 
 	var n='';
 	do{
