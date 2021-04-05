@@ -1,0 +1,14 @@
+language: node_js
+
+node_js:
+  - 14
+
+script:
+  - npm run test
+
+notifications:
+  email:
+    - emanoeljhones@gmail.com
+    - ufrapl21@gmail.com
+    
+
